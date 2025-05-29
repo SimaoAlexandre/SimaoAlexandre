@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome]
 
-<!--
-**SimaoAlexandre/SimaoAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante de [Seu Curso] na [Nome da Instituição].  
+💻 Apaixonado por tecnologia, programação e resolver problemas com código.  
+🚀 Sempre buscando aprender mais e contribuir com projetos open source e pessoais.
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias e Ferramentas que conheço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+  *(adicione ou remova conforme seu conhecimento)*
+
+- **Ferramentas e Frameworks:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark)
+
+## 📫 Como me encontrar
+
+- Email: [seu.email@email.com]  
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- Portfólio: [seu-site.com](https://seu-site.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
