@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Simão
 
 🎓 I'm currently studying **Computer Engineering** at Faculdade de Ciências (ULisboa).  
-💻 Passionate about technology, coding, and solving real-world problems through software.  
-🚀 Always eager to learn new things and contribute to open source or personal projects.
 
 ## 🧠 Languages and Tools I Use
 
