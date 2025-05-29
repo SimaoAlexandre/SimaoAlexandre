@@ -1,34 +1,22 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# Hi there! 👋 I'm Simão
 
-🎓 Atualmente sou estudante de [Seu Curso] na [Nome da Instituição].  
-💻 Apaixonado por tecnologia, programação e resolver problemas com código.  
-🚀 Sempre buscando aprender mais e contribuir com projetos open source e pessoais.
+🎓 I'm currently studying **Computer Engineering** at Faculdade de Ciências (ULisboa).  
+💻 Passionate about technology, coding, and solving real-world problems through software.  
+🚀 Always eager to learn new things and contribute to open source or personal projects.
 
-## 🧠 Tecnologias e Ferramentas que conheço
+## 🧠 Languages and Tools I Use
 
-- **Linguagens:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-  *(adicione ou remova conforme seu conhecimento)*
+- **Programming Languages:**  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- **Ferramentas e Frameworks:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📫 How to Reach Me
 
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark)
-
-## 📫 Como me encontrar
-
-- Email: [seu.email@email.com]  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- Portfólio: [seu-site.com](https://seu-site.com)
-
----
-
-⭐ Obrigado por visitar meu perfil!
-
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- GitHub: [github.com/your-username](https://github.com/your-username)
