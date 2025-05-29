@@ -17,6 +17,5 @@
 
 ## 📫 How to Reach Me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: simao.silva.alexandre@gmail.com  
+- LinkedIn: 
