@@ -22,5 +22,5 @@
 
 ## 📫 How to Reach Me
 
-- Email: simao.silva.alexandre@gmail.com  
+- Email: fc61874@alunos.fc.ul.pt
 
