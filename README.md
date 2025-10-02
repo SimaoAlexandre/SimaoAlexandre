@@ -7,12 +7,12 @@
 ---
 
 ## 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
-</p>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook&langs_count=10" alt="simaoalexandre" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
+  </p>
 
 ---
 
