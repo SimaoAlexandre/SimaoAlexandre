@@ -6,6 +6,16 @@
 
 ---
 
+## 📊 GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
+</p>
+
+---
+
 ## 🧠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,13 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
-</p>
+
 
 
 
