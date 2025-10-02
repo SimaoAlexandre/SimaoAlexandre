@@ -14,26 +14,32 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
+
 ## 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ---
+
 ## ⚙️ Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
+
 ---
+
 ## 💻 Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
 </p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
+r" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
 </p>
 
 ---
