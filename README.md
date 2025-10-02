@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋</h1>
-- 🌱 I’m currently learning **C and Python**
+- 👩🏻‍🎓 Studying Computer Science at Faculdade de Ciências, Lisbon
+- 👩🏻‍💻 Sharing my projects and learnings during College
+- 💭 Currently learning **C and Python**!
 - 📫 How to reach me **fc61874@alunos.fc.ul.pt**
 
 ---
