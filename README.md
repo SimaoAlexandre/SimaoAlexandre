@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋</h1>
-- 👩🏻‍🎓 Studying Computer Science at Faculdade de Ciências, Lisbon
-- 👩🏻‍💻 Sharing my projects and learnings during College
-- 💭 Currently learning **C and Python**!
-- 📫 How to reach me **fc61874@alunos.fc.ul.pt**
+<h1 align="left">Hi, I'm Simão!👋</h1>
+- 👩🏻‍🎓 Studying Computer Science at Faculdade de Ciências, Lisbon<br/>
+- 👩🏻‍💻 Sharing my projects and learnings during College<br/>
+- 💭 Currently learning **C and Python**!<br/>
+- 📫 How to reach me **fc61874@alunos.fc.ul.pt**<br/>
 
 ---
 
