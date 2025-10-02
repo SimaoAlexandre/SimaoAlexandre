@@ -39,13 +39,9 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
 </p>
-r" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
 </p>
 
----
 
-## 📈 GitHub Activity:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SimaoAlexandre/SimaoAlexandre/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
 
