@@ -28,4 +28,26 @@
 ---
 
 ## ⚙️ Tools:
-![Git](https://img.shields.io/badge/Git-F05)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
+
+---
+
+## 💻 Operating Systems:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaoalexandre&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" alt="simaoalexandre" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaoalexandre&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="simaoalexandre" />
+</p>
+
+---
+
+## 📈 GitHub Activity (Wiggly Worm):
+![Wiggly GitHub Graph](https://activity-graph.herokuapp.com/graph?username=simaoalexandre&theme=react-dark&area=true)
