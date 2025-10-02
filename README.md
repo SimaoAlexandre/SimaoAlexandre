@@ -49,5 +49,8 @@
 
 ---
 
-## 📈 GitHub Activity (Wiggly Worm):
-![Wiggly GitHub Graph](https://activity-graph.herokuapp.com/graph?username=simaoalexandre&theme=react-dark&area=true)
+## 📈 GitHub Activity:
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
