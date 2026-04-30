@@ -1,0 +1,58 @@
+Projeto
+Introdução à Aprendizagem
+Automática
+2025/2026
+Neste Projeto final vamos usar uma competição do kaggle:
+https://www.kaggle.com/competitions/spaceship-titanic/
+O dataset contém informação sobre os passageiros a bordo do Spaceship Titanic.
+Durante o voo, uma anomalia no espaço-tempo transportou cerca de metade dos
+passageiros para outra dimensão. Para ajudar a equipa de resgate, é necessário
+tentar prever quais foram os passageiros que sofreram esse curioso incidente
+interdimensional. Para além disso, a tripulação da nave (imperturbável perante
+catástrofes cósmicas) quer estimar o valor que um conjunto de passageiros gastou
+no Food Court. A descrição das variáveis está no link acima.
+Os objetivos do projeto são os seguintes:
+ O1: Prever a variável Transported dados os atributos do dataset
+fornecido.
+ O2: Prever o valor dispendido pelos passageiros em restaurantes
+(variável FoodCourt)
+ O3: É possível prever com confiança a idade dos passageiros que
+foram transportados?
+ O4: Quais são os atributos mais importantes nos melhores modelos
+acima (O1, O2, O3)?
+ Notas:
+o Podem usar qualquer dos métodos aprendidos na cadeira (máximo
+3 por objetivo)
+o Em caso de dúvida, modelos mais simples são preferíveis
+o Devem testar diferentes hiper-parâmetros para os modelos
+escolhidos
+Instruções:
+Cada grupo deve preparar um notebook com o código utilizado, comentado, e com as escolhas
+claramente justificadas. Deve ser treinado no ficheiro spaceship_data.csv e estar
+preparado para ser testado num conjunto de teste independente test set (não fornecido).
+Avaliação:
+O Projeto será avaliado tendo em conta:
+ A descrição dos passos e decisões tomadas para atingir os objetivos
+ O desempenho no test set
+ A qualidade de implementação
+ Um questionário individual (e eliminatório), realizado presencialmente na última aula
+TP
+ Será valorizada a submissão à competição do Kaggle com apresentação dos respetivos
+resultados
+Submissão:
+Cada grupo deverá submeter no Moodle um notebook Python, contendo as seguintes células:
+ Na primeira célula:
+o Número do grupo
+o Número e nome dos seus membros
+o A contribuição de cada membro (em horas de trabalho e conteúdo)
+ Introdução ao problema (com EDA)
+ Para cada objetivo:
+o Descrição do pré-processamento dos dados
+o Seleção de variáveis, justificação para métricas e avaliação
+o Resultados dos modelos (em formato tabela) e gráficos auxiliares
+o Caracterização do tuning de hiper-parâmetros
+o Previsão no conjunto de exemplo fornecido space_ex_o{1,2,3}.csv, avaliado
+no respetivo space_ex_o{1,2,3}_y.csv
+ Discussão e conclusões
+O trabalho deverá ser submetido em grupo, até dia 25/05/2026 às 12:00
+Boa sorte!
