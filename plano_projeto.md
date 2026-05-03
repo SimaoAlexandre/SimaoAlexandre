@@ -1,6 +1,6 @@
 # Plano do Projeto
 
-## 1. Leitura do problema e enquadramento ✅
+## 1. Leitura do problema e enquadramento
 - Identificar os 3 objetivos do projeto:
   - O1: prever `Transported`.
   - O2: prever `FoodCourt`.
@@ -24,6 +24,7 @@
 - Codificar variáveis categóricas.
 - Normalizar ou padronizar variáveis numéricas quando fizer sentido.
 - Criar um pipeline de pré-processamento reutilizável para os diferentes objetivos.
+- Estado: ✅ base de pré-processamento já adicionada ao notebook.
 
 ## 4. Objetivo O1: prever `Transported`
 - Testar modelos simples de classificação.
