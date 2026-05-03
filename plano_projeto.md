@@ -1,6 +1,6 @@
 # Plano do Projeto
 
-## 1. Leitura do problema e enquadramento
+## 1. Leitura do problema e enquadramento ✅
 - Identificar os 3 objetivos do projeto:
   - O1: prever `Transported`.
   - O2: prever `FoodCourt`.
@@ -10,6 +10,7 @@
   - O2: regressão.
   - O3: regressão condicionada aos passageiros transportados.
 - Ler a descrição das variáveis e perceber quais são numéricas, categóricas e quais têm valores em falta.
+- Estado: ✅ já colocado no notebook com a secção de enquadramento do problema.
 
 ## 2. Exploração inicial dos dados
 - Fazer uma análise descritiva do dataset.
