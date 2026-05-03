@@ -17,6 +17,7 @@
 - Ver a distribuição das variáveis principais e da variável alvo de O1.
 - Identificar missing values, outliers e possíveis inconsistências.
 - Explorar relações simples entre atributos e variáveis alvo.
+- Estado: ✅ secção de EDA inicial já adicionada ao notebook.
 
 ## 3. Pré-processamento
 - Tratar valores em falta.
